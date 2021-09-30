@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 # Article:
 
 [Big Tech salaries revealed: How much engineers, developers, and product managers make at companies including Amazon, Facebook, Google, Apple, Microsoft, Intel, Uber, IBM, and Salesforce](https://www.businessinsider.com/tech-engineer-developer-salary-google-amazon-microsoft-ibm-apple-intel-2021-6)
