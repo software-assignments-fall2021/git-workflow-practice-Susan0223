@@ -11,3 +11,8 @@ A software engineer was offered *$353,000*, a vice president of engineering can 
 
 > Apple's advertising is legendary, and its broader marketing efforts are integral to the company's success. The iPhone maker regularly gets attention for its cinematic campaigns.
 The company sponsors visas for a range of well-paid marketing jobs. One marketing manager makes *$240,000*, while a marketing senior director earns *$325,000*.
+
+# Comments:
+
+> Interesting article! I think it provides insight into the demand for software engineers and how the top performing tech companies are willing to find the best engineers.
+> - Ina Youn (iy372)
